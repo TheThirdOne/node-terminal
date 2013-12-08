@@ -1,0 +1,17 @@
+{
+  "name": "node-terminal",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "scripts": {
+          "start": "node terminal.js"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "repository" :{ 
+    "type" : "git",
+    "url" : "https://github.com/TheThirdOne/node-terminal.git"
+  }
+}
