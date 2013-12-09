@@ -1,6 +1,7 @@
 {
   "name": "terminal-base",
   "version": "0.0.1",
+  "author":"Benjamin Landers"
   "dependencies": {
   },
   "scripts": {
